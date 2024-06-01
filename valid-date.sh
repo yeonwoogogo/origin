@@ -62,3 +62,4 @@ if [ $day<1 || $day>$days_in_month ] ; then
 fi
 
 echo "$month $day $year"
+
